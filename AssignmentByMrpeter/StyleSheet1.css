@@ -1,0 +1,13 @@
+﻿body {
+    background-image: url(image/im.png);
+}
+p {
+    width: 471px;
+    margin-left: 400px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#form1 {
+    color: orangered;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-weight: bolder;
+}
